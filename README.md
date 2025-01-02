@@ -9,3 +9,6 @@ Stuff about work, about life and just stuff !
 -- George Carlin
 
 So here's my shit, may you stuff your mind with it.. or not !
+
+
+[About Code](./About_Code.md)
