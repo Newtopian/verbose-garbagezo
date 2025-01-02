@@ -25,14 +25,14 @@ THAT is why we do layers of abstractions, is why we create these architectures, 
 why we automate the shit out of everything we can, you want to manage the dread that will innevitably come greet
 you the next time you need to interact with this code / system.
 
-How easy it is to experiment with it ?
-How damaging are errors and mistakes ?  In prod ?
-And should you fuck things up, I mean REALLY fuck things up... how easy, and fast it is to get back to a known good baseline ?
+* How easy it is to experiment with it ?
+* How damaging are errors and mistakes ?  In prod ?
+* And should you fuck things up, I mean REALLY fuck things up... how easy, and fast it is to get back to a known good baseline ?
 
-I mean think of the ABSOLUTE worst case scenario and use that as the starting point of a really _really_ vicious, sadistic way you can immolate the 
+I mean think of the ABSOLUTE worst case scenario and use that as the starting point to find a really _really_ vicious, sadistic way you can immolate the 
 system you are working in, where _nuking_ it would be a mercy...
 
-Typically this would entice two answsers, either you curl up in fetal position and then try and learn this by heart for the next time :
+Typically this would entice two responses, either you curl up in fetal position and then try and learn this by heart for the next time :
 
 > "I must not fear.
 > Fear is the mind-killer.
@@ -42,13 +42,16 @@ Typically this would entice two answsers, either you curl up in fetal position a
 > And when it has gone past, I will turn the inner eye to see its path.
 > Where the fear has gone there will be nothing. Only I will remain."
 
-or you think this is actually a pretty good representation of your state of mind in this case and not some sick joke from the you above.
+OR
+
+You look at this image and without a hint of sarcasm truly feel zen cause you KNOW how to fix this, fast and easy !  Aint nothing the univese can throw at you that will not make you finish this cup of tea before getting the situation under control.
+
 ![it's fine](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpzOTF1ZDkyYWYyMDk0NmYzcGtzODB4enA5azdmYXBrM21ueTluNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif)
 
 The biggest wins I've made were not so much that super algorithm, or how I made this bit super efficient.  But how
 I got a manually, error prone, and non-resilient process that would take hours (weeks in one case) down to mere minutes but most of all...
 
-A brain dead operation you could confidently do very drunk while still at a bar with just your cell-phone to interact with the system.
+A brain dead operation you could confidently do very drunk while still at a bar with just your cell-phone to interact with the system. (literally a true story... for another time)
 
 Dont try and manage fear, just remove it's root cause !
 
