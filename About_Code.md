@@ -7,7 +7,7 @@ That has to be the one thing I can summarise how I tackle systems, write code or
 Systems we write get complicated... fast... and we rapidly come to a point where we will need to iterate on 
 these systems.  
 And here I think the number one ennemy, the primordial gut wrenching, sweat inducing, shit your pants thing that
-grips you is...  
+grips you is...  Ho Shit...  I gotta change that code !!!
 
 ![Ho shit ... I gotta change that code !](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z0aXNtcTR0eHA3ZzJzb2hkN2g0eHN3YTBreXd1a2E4azE1YzdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a79Jr229u3bzO/giphy.gif)
 
@@ -57,4 +57,4 @@ Dont try and manage fear, just remove it's root cause !
 
 Keep that in check, everything ideas or requests get answered along these lines :
 
-> gimme an hor or so I'll try something up see how far we can take this idea.
+> gimme an hour or so I'll try something up see how far we can take this idea.
