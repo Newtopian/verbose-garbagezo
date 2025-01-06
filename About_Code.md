@@ -53,6 +53,8 @@ I got a manually, error prone, and non-resilient process that would take hours (
 
 A brain dead operation you could confidently do very drunk while still at a bar with just your cell-phone to interact with the system. (literally a true story... for another time)
 
+In short, how I reduced the fear factor down to a point where making mistakes was just part of work, it was allowed, it was accepted as unavoidable and thus could be addressed rapidly and/or could be isolated easily such that experiments did not affect normal workflows.
+
 Dont try and manage fear, just remove it's root cause !
 
 Keep that in check, everything ideas or requests get answered along these lines :
